@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love lifting heavy circles for reps and grunting while at it.
 
 ### Connect with me:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -17,9 +17,9 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/https://linkedin.com/in/dave-emery-b71960219#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/https://linkedin.com/in/dave-emery-b71960219#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/https://linkedin.com/in/dave-emery-b71960219#gh-dark-mode-only) -->
 <!-- &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
@@ -57,6 +57,6 @@
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
+
 
 
