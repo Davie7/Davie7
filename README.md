@@ -50,6 +50,8 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Davie7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davie7)](https://github.com/Davie7/github-readme-stats)
+
 </details>
 
 <!-- [website]: https://codeSTACKr.com -->
