@@ -3,7 +3,7 @@
 ## I'm a Flutter and Python Developer.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other flutter developers
+- 👯 I’m looking to collaborate with other flutter developers (both open source projects and personal projects)
 - 🥅 2023 Goals: Learn more about Flutter, MonogoDB, PostgreSQL and Node.js
 - ⚡ Fun fact: I love lifting heavy circles for reps and grunting while at it.
 
