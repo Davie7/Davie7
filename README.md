@@ -1,6 +1,6 @@
 # Hi there, I'm Dave👋 
 
-## I'm a Flutter and Python Developer.
+## I'm a Mobile app Developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other flutter developers (both open source projects and personal projects)
