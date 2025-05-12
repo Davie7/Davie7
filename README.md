@@ -1,8 +1,5 @@
 # Hi there, I'm Dave👋 
 
-- 👯 I’m looking to collaborate with other flutter developers (both open source projects and personal projects)
-- ⚡ Fun fact: I love lifting heavy circles for reps and grunting while at it.
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
